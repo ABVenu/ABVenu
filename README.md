@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/venugopal-burli/">
     <img align="center" alt="Venugopal @LinkedIN" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" />&nbsp;
   </a>
-  <a href="https://venugopalburli-protfolio.netlify.app/">
+  <a href="https://venugopalburli-portfolio.netlify.app/">
     <img align="center" src="https://cdn2.iconfinder.com/data/icons/business-804/24/portfolio-business-briefcase-work-suitcase-briefcase2-256.png" alt="Venu Portfolio" width="50px">&nbsp;
   </a>
   <a href="https://github.com/ABVenu" >
