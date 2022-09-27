@@ -49,6 +49,6 @@ Here are some ideas to get you started:
   <a href="tel:+91-7892272452" >
     <img align="center" alt="Venu @ Mobile" width="45px" src="https://cdn4.iconfinder.com/data/icons/essential-app-1/16/mobile-phone-smart-screen-128.png" />&nbsp;
   </a>
-  
+  [![Venu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbVenu)](https://github.com/AbVenu/github-readme-stats)
 </p>
 
