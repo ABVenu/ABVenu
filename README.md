@@ -51,6 +51,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <hr>
-
-[![Venu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbVenu)](https://github.com/Abvenu/github-readme-stats)
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=ABvenu&show_icons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABVenu&layout=compact" />
+</div>
