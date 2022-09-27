@@ -1,6 +1,6 @@
-### Hello👋 
+### Hello👋 I am Venugopal Anant Burli
 
-I am Venugopal Anant Burli, an aspiring Full-Stack Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
+I am a aspiring Full-Stack Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
 I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...React.JS
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...HTML|CSS|JavaScript
-- 📫 How to reach me: ...[email: avenugopalb@gmail.com](avenugopalb@gmail.com)
+- 📫 How to reach me: ...[email: avenugopalb@gmail.com](mailto:avenugopalb@gmail.com),[LinkedIn](https://www.linkedin.com/in/venugopal-burli/)
 - 😄 Pronouns: ...He/His
  <!--- - ⚡ Fun fact: ... -->
 
