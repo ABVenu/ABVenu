@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...React.JS
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...HTML|CSS|JavaScript
-- 📫 How to reach me: ...[email: avenugopalb@gmail.com](mailto:avenugopalb@gmail.com),[LinkedIn](https://www.linkedin.com/in/venugopal-burli/)
+- 📫 How to reach me: ...[email: avenugopalb@gmail.com](mailto:avenugopalb@gmail.com)|[LinkedIn](https://www.linkedin.com/in/venugopal-burli/)
 - 😄 Pronouns: ...He/His
  <!--- - ⚡ Fun fact: ... -->
 
