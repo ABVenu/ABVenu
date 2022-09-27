@@ -51,7 +51,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 <hr>
-<div style="display: flex; flex-direction: row;">
+
  <img class="img" style="height: 100%; width: 45%;"  src="https://github-readme-stats.vercel.app/api?username=ABvenu&show_icons=true" />
  <img class="img" style="height: 100%; width: 45%;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABVenu&layout=compact" />
-</div>
+ <div style="display: flex; flex-direction: row;">
+ </div>
