@@ -24,13 +24,19 @@ Here are some ideas to get you started:
 <p align="center">
 <i><b>Tech Stacks:</b></i> 
   <br><br>
-  <img align="center" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-128.png" width="50px" />&nbsp;
+  <div align="center">
+  
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts,nodejs,express,mongodb,git,github,heroku,netlify,vscode)](https://skillicons.dev)
+   
+   </div>
+   
+ <!--- <img align="center" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-128.png" width="50px" />&nbsp;
   <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" width="50px" />&nbsp;
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50px" />&nbsp;
   <img align="center" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-128.png" width="50px" />&nbsp;
   <img align="center" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-nodejs-128.png" width="50px" />&nbsp;
   <img align="center" src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-redux-128.png" width="50px" />&nbsp;
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-128.png" width="50px" />&nbsp;
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-128.png" width="50px" />&nbsp;-->
 </p>
 <hr>
 <p align = "center">
@@ -58,4 +64,4 @@ Here are some ideas to get you started:
  </div>
  <hr>
  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
