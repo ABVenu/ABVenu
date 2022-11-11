@@ -68,9 +68,9 @@ Here are some ideas to get you started:
  <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=ABvenu&show_icons=true" />
  <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABVenu&layout=compact" />
  </div>
- <hr>
+<!--  <hr> -->
  
- [![Venugopal's github activity graph](https://activity-graph.herokuapp.com/graph?username=ABVenu&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ABVenu/github-readme-activity-graph)
+<!--   [![Venugopal's github activity graph](https://activity-graph.herokuapp.com/graph?username=ABVenu&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ABVenu/github-readme-activity-graph) -->
  
  <hr>
  
