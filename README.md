@@ -1,6 +1,6 @@
 ### Hello👋 I am Venugopal Anant Burli
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 I am a aspiring Full-Stack Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
 I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
