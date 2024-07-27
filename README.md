@@ -1,6 +1,4 @@
 ### Hello👋 I am Venugopal Anant Burli
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" />
-
 
 I am a aspiring Full-Stack Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
 I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
